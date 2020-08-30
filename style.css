@@ -1,0 +1,27 @@
+.btn {
+    display: block;
+    width: 100%;
+    padding: 1.5rem 2rem;
+    background-color: #1d7e0c;
+    color: #fff;
+    font-size: 1.5rem;
+    border: none;
+    border-radius: 2px;
+    box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.15);
+    margin-bottom: .5rem;
+    cursor: pointer;
+    transform: translateY(0);
+    transition: all .2s;
+  }
+
+  .btn:hover {
+    transform: translateY(-.3rem);
+  }
+
+  .forgot {
+    font-size: 1rem;
+    margin-top: 2rem;
+    cursor: pointer;
+    
+
+  }
